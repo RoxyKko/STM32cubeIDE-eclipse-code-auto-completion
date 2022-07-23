@@ -15,3 +15,13 @@ Q:我该如何使用
 
 A：copy paste overwrite to “...\STM32CubeIDE\plugins”
 A:复制粘贴覆盖到“...\STM32CubeIDE\plugins”
+
+
+
+关于怎么下载汉化包和切换回英文：
+https://blog.csdn.net/bealei/article/details/120276741
+
+关于找不到plug-ins按钮的问题：
+https://blog.csdn.net/feinifi/article/details/103088082
+
+其中开发msp系列的CCS同样也是Eclipce内核，这些都基本通用
